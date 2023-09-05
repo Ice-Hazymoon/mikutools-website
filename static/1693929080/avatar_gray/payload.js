@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/avatar_gray", {data:[{}],fetch:{},mutations:[]});

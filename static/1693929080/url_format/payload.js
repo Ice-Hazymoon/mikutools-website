@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/url_format", {data:[{}],fetch:{},mutations:[]});

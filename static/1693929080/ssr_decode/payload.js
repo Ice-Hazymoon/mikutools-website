@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ssr_decode", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/text_autospace", {data:[{}],fetch:{},mutations:[]});

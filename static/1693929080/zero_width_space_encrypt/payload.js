@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/zero_width_space_encrypt", {data:[{}],fetch:{},mutations:[]});

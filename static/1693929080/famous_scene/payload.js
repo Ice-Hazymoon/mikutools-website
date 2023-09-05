@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/famous_scene", {data:[{}],fetch:{},mutations:[]});

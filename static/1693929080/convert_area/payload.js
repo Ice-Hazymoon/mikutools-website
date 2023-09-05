@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/convert_area", {data:[{}],fetch:{},mutations:[]});

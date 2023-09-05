@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/whois_query", {data:[{}],fetch:{},mutations:[]});

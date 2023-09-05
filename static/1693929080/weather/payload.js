@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/weather", {data:[{}],fetch:{},mutations:[]});
