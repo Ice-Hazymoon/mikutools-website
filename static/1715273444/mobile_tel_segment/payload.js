@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mobile_tel_segment", {data:[{}],fetch:{},mutations:[]});

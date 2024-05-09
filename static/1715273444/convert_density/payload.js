@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/convert_density", {data:[{}],fetch:{},mutations:[]});

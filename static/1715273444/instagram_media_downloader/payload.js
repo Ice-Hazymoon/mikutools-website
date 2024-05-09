@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/instagram_media_downloader", {data:[{}],fetch:{},mutations:[]});

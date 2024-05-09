@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ip_address_query", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/picture_clipping", {data:[{}],fetch:{},mutations:[]});

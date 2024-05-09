@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/json_to_go", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/c2c", {data:[{}],fetch:{},mutations:[]});

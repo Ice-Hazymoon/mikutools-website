@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bt_search", {data:[{}],fetch:{},mutations:[]});

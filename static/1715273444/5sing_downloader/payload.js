@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/5sing_downloader", {data:[{}],fetch:{},mutations:[]});

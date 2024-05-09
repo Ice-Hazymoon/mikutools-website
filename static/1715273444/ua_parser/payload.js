@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ua_parser", {data:[{}],fetch:{},mutations:[]});

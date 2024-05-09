@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/telegram_sticker", {data:[{}],fetch:{},mutations:[]});

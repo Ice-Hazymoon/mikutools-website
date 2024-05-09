@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/message_board", {data:[{}],fetch:{},mutations:[]});

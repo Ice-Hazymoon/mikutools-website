@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/gif_splitter", {data:[{}],fetch:{},mutations:[]});

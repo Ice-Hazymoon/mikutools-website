@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/idcard_generator", {data:[{}],fetch:{},mutations:[]});

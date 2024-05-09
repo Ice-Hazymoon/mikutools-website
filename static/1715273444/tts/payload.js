@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tts", {data:[{}],fetch:{},mutations:[]});

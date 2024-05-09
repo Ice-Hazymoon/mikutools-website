@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{3088:function(t,n,e){"use strict";e.r(n);e(21),e(68);var c={data:function(){return{}},mounted:function(){this.$router.replace("/catgpt")}},o=e(6),component=Object(o.a)(c,(function(){return(0,this._self._c)("div",{staticClass:"mikuai"})}),[],!1,null,null,null);n.default=component.exports}}]);

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/163_daka", {data:[{}],fetch:{},mutations:[]});
