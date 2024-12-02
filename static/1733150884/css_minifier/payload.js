@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/css_minifier", {data:[{}],fetch:{},mutations:[]});

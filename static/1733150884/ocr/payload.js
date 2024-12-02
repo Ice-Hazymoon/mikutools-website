@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ocr", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/any_rule", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search_pic", {data:[{}],fetch:{},mutations:[]});

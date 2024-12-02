@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/weibo_image_reverse", {data:[{}],fetch:{},mutations:[]});

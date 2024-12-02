@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dwzreduction", {data:[{}],fetch:{},mutations:[]});

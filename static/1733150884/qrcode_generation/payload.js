@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/qrcode_generation", {data:[{}],fetch:{},mutations:[]});

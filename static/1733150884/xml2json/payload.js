@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/xml2json", {data:[{}],fetch:{},mutations:[]});

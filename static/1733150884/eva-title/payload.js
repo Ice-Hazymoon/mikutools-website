@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/eva-title", {data:[{}],fetch:{},mutations:[]});

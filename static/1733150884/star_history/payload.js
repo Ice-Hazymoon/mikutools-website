@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/star_history", {data:[{}],fetch:{},mutations:[]});

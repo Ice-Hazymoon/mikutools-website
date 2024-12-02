@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/anime4k", {data:[{}],fetch:{},mutations:[]});

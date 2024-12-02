@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/beian", {data:[{}],fetch:{},mutations:[]});

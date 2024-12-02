@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chinese_id", {data:[{}],fetch:{},mutations:[]});

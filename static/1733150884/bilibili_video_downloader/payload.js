@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bilibili_video_downloader", {data:[{}],fetch:{},mutations:[]});

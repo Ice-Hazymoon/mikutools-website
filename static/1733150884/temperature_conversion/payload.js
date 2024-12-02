@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/temperature_conversion", {data:[{}],fetch:{},mutations:[]});

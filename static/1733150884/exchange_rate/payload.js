@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/exchange_rate", {data:[{}],fetch:{},mutations:[]});

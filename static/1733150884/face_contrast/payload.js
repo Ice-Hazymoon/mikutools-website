@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/face_contrast", {data:[{}],fetch:{},mutations:[]});

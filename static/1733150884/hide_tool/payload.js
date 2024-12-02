@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hide_tool", {data:[{}],fetch:{},mutations:[]});

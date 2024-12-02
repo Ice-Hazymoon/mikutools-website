@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>支付跳转中</title>
+</head>
+
+<body>
+    <script>
+        function getQueryStringArgs(url) {
+            if (url && url.indexOf('?') > -1) {
+                var arr = url.split('?');
+                var qs = arr[1],
+                    args = {},
+                    items = qs.length ? qs.split('&') : [],
+                    item = null,
+                    name = null,
+                    value = null,
+                    i = 0,
+                    len = items.length;
+                for (i = 0; i < len; i++) {
+                    item = items[i].split('=');
+                    name = decodeURIComponent(item[0]);
+                    value = decodeURIComponent(item[1]);
+                    if (name.length) {
+                        args[name] = value;
+                    }
+                }
+                return args;
+            }
+            return {};
+        }
+
+        // window.location.href = getQueryStringArgs(window.location.href);
+        const query = getQueryStringArgs(window.location.href);
+        window.location.href = query.url;
+
+    </script>
+</body>
+
+</html>
+

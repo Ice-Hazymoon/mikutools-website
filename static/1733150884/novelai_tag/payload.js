@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/novelai_tag", {data:[{}],fetch:{},mutations:[]});

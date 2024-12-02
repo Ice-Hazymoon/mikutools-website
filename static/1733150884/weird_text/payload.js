@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/weird_text", {data:[{}],fetch:{},mutations:[]});

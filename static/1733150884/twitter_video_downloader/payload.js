@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/twitter_video_downloader", {data:[{}],fetch:{},mutations:[]});

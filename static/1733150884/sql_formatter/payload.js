@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sql_formatter", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/how_old_am_i", {data:[{}],fetch:{},mutations:[]});

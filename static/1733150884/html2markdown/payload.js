@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/html2markdown", {data:[{}],fetch:{},mutations:[]});

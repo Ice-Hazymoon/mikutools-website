@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sot1_encrypt", {data:[{}],fetch:{},mutations:[]});

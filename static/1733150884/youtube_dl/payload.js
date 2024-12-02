@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/youtube_dl", {data:[{}],fetch:{},mutations:[]});

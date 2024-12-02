@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/soundcloud_music_downloader", {data:[{}],fetch:{},mutations:[]});

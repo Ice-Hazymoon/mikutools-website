@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/new_bangumi/watch", {data:[{}],fetch:{},mutations:[]});

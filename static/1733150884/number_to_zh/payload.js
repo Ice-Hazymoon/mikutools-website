@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/number_to_zh", {data:[{}],fetch:{},mutations:[]});

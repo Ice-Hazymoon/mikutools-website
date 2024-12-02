@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/youtube_logo", {data:[{}],fetch:{},mutations:[]});
